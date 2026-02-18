@@ -1,0 +1,9 @@
+{
+  "name": "CivicCore - Impact Infrastructure",
+  "description": "A programmable impact infrastructure for nonprofits and communities in Africa, featuring transparent Solana-based vaults, milestone-based releases, and AI-verified proofs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
